@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+temp/
+temp_safe_enrich/
+temp_transcription_audio/
+tmpspeed/
+tmpseed/
+repo/
+*.pyc
+.env
+output/*_backup.json
+output/*_attempted.json
+output/progress.json
+restore_from_backup.py
+fill_missing_transcripts.py
